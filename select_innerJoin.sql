@@ -1,0 +1,1 @@
+SELECT * FROM t_aluno A INNER JOIN t_aluno_disc B ON A.cod_aluno = B.cod_aluno;

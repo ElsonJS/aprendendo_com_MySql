@@ -1,0 +1,1 @@
+UPDATE t_disciplina  SET descricao = 'GEOGRAFIA' WHERE cod_disc = 88036;

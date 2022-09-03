@@ -1,0 +1,1 @@
+DELETE FROM t_aluno WHERE cod_Aluno = 123;
